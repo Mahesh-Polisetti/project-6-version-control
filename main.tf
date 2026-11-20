@@ -9,3 +9,7 @@ output "project_name" {
 output "message" {
   value = "Terraform code tracked using Git"
 }
+
+output "version" {
+  value = "Version 2"
+}
